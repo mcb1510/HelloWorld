@@ -2,7 +2,7 @@
 
 This is a basic Hello World program. I created this to demonstrate the use of VIsual Studio Code, GitHub, and Python integrated together.
 
-Here is a link of me explaining how the Hello World program works.
+Here is a video link of me explaining how the Hello World program works.
 
 [Hello World video](http://youtube.link.goes.here)
 
