@@ -4,7 +4,7 @@ This is a basic Hello World program. I created this to demonstrate the use of VI
 
 Here is a video link of me explaining how the Hello World program works.
 
-[Hello World video](http://youtube.link.goes.here)
+[Hello World video](https://www.youtube.com/watch?v=7_Se6GI-6xM)
 
 # Development Environment
 
